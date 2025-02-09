@@ -59,5 +59,3 @@ async function checkConflicts() {
 
 // Run the function
 checkConflicts();
-
-// Checking GitHub
